@@ -15,7 +15,7 @@ import io
 
 
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDJ9_XGzi6sC647-xD48WRGkqtEIAE0YbI"
+os.environ["GOOGLE_API_KEY"] = "API_KEY"
 llm = init_chat_model("gemini-2.5-flash", model_provider="google_genai")
 
 
@@ -818,6 +818,7 @@ def pdf_generator(state: Dietplan_State) -> Dietplan_State:
 
 
          
+
 
 
 
