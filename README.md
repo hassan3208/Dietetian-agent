@@ -6,20 +6,6 @@ API endpoints will be added later and connected to a frontend.
 
 ---
 
-##🗂 Repository Structure
-Dietetian-agent/
-│
-├── main.py          # Entry point to start the backend agent
-├── graph.py         # LangGraph workflow and node definitions
-├── methods.py       # Core functions for diet planning & PDF generation
-├── requirements.txt # Python dependencies
-└── README.md
-
-
-
-
----
-
 ## Features
 - **Personalized meal plans** based on user input  
 - **Gemini 2.5 Flash** LLM for fast, high-quality responses  
@@ -99,9 +85,5 @@ Pull requests and feature suggestions are welcome:
 
 This project is licensed under the **MIT License**.
 
-
-- `#` as the big title (H1)  
-- `##` as section headers (H2)  
-- `###` as sub-headers (H3)
 
 
