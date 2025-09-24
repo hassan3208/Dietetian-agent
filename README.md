@@ -6,9 +6,7 @@ API endpoints will be added later and connected to a frontend.
 
 ---
 
-## Repository Structure
-
-
+##🗂 Repository Structure
 Dietetian-agent/
 │
 ├── main.py          # Entry point to start the backend agent
@@ -16,6 +14,7 @@ Dietetian-agent/
 ├── methods.py       # Core functions for diet planning & PDF generation
 ├── requirements.txt # Python dependencies
 └── README.md
+
 
 
 
@@ -100,11 +99,6 @@ Pull requests and feature suggestions are welcome:
 
 This project is licensed under the **MIT License**.
 
-
-
-✅ **Tip:**  
-Paste everything between the triple back-ticks into your `README.md` file.  
-GitHub automatically renders:
 
 - `#` as the big title (H1)  
 - `##` as section headers (H2)  
